@@ -30,7 +30,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ubuntu_logo_2018.svg" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.dKNYKEdv4XwtKV-zyv7j7AHaHa?rs=1&pid=ImgDetMain" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/5a6248fe-8274-4c97-b104-e92470f1d399" width="40" height="40"/>
