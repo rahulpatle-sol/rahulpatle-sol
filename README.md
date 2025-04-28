@@ -20,8 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://sdtimes.com/wp-content/uploads/2017/06/Rust_programming_language_black_logo.svg_.png" width="40" height="40"/>
- 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Rust_programming_language_black_logo.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -30,7 +29,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/OIP.HUMjfV8G1ZS2GGGATBPu5AHaFj?rs=1&pid=ImgDetMain" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ubuntu_logo_2018.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/fluency/48/000000/postman-api.png" width="40" height="40"/>
@@ -45,9 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/OIP.GdUWbrVtbNezIRl6jg_ymAHaEh?w=267&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7' width="40" height="40"/>
-  <img src="https://th.bing.com/th/id/OIP.MxMsJ8YAcHqU8CStzkU5_AHaD8?rs=1&pid=ImgDetMain" width="40" height="40"/>
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/React_Router_Logo_1.svg" width="40" height="40"/>
 </p>
 
 ---
