@@ -28,43 +28,61 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 #### 💻 Programming Languages
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
-### 📊 Real-Time Analytics
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpatle-sol&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E&icon_color=3ECF8E&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatle-sol&theme=transparent&hide_border=true&stroke=3ECF8E&sideNums=3ECF8E&sideLabels=ffffff&dates=ffffff&ring=3ECF8E" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
+### 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulpatle-sol&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E&icon_color=3ECF8E&text_color=ffffff&bg_color=000000" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatle-sol&theme=transparent&hide_border=true&stroke=3ECF8E&sideNums=3ECF8E&sideLabels=ffffff&dates=ffffff&ring=3ECF8E&background=000000" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpatle-sol&theme=react-dark&hide_border=true&area=true&color=3ECF8E" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpatle-sol&theme=react-dark&hide_border=true&area=true&color=3ECF8E&point=ffffff" width="100%" />
 </p>
 
 ---
 
 ### 🏗️ Live Deployments
-- 🖋️ **[CodeMappers](https://codemapers.vercel.app)**: A Next-gen Cloud IDE for modern teams.
+- 🖋️ **[CodeMappers](https://codemapers.vercel.app)**: Next-gen Cloud IDE for modern teams.
 - ⚡ **ShortTricks**: AI-powered productivity ecosystem.
-- 🎮 **uCheaters**: Technical research into security and sandboxing.
+- 🎮 **uCheaters**: Technical research into security & sandboxing.
+
+---
+
+### 📊 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatle-sol&theme=tokyonight" width="100%" />
+</p>
 
 ---
 
 ### 📬 Connect with the Architect
-<p align="left">
-  <a href="https://linkedin.com/in/rahul-patle-b80332255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-patle-sol"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/PatleRahul239"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rahulpatle-sol&label=SYSTEM_ACCESS&color=3ECF8E&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=rahulpatle-sol&label=PROFILE%20VIEWS&color=3ECF8E&style=flat-square" />
 </p>
