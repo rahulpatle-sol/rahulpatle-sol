@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # har din raat ko update
   workflow_dispatch:       # manually bhi run kar sakta hai
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
