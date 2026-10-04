@@ -1,3 +1,4 @@
+
 <!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:9945FF,100:3ECF8E&height=220&section=header&text=Rahul%20Patle&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%7C%20AI%20%7C%20Web3%20%7C%20Solana&descSize=20&descAlignY=62" width="100%" alt="Rahul Patle header" />
