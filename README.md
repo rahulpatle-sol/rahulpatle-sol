@@ -12,7 +12,7 @@
   <a href="https://twitter.com/PatleRahul239"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://liqour-fi.vercel.app/"><img src="https://img.shields.io/badge/Liqour-Live-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Liqour" /></a>
   <a href="https://winge-frontend.vercel.app/"><img src="https://img.shields.io/badge/Winge-Live-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white" alt="Winge" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rahulpatle-sol&label=PROFILE%20VIEWS&color=3ECF8E&style=for-the-badge" alt="profile views" />
+  <img src="https://hits.sh/github.com/rahulpatle-sol.svg?style=for-the-badge&color=3ECF8E&label=PROFILE%20VIEWS" alt="profile views" />
 </p>
 
 <br/>
