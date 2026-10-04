@@ -1,91 +1,320 @@
-# <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="35"> I'm Rahul Patle
-
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20%7C%20AI%20%7C%20Web3&fontSize=50&animation=fadeIn&fontAlignY=38" />
-</p>
-
----
-
-### ⚡ The Blueprint
-- 🧠 **Neural Systems:** Architecting AI-integrated platforms using LLMs.
-- ⛓️ **Decentralized Mindset:** Deep diving into Solana, Rust, and Smart Contracts.
-- 🏗️ **Full-Stack Mastery:** Building production-grade Web2 systems with extreme scalability.
-
----
-
-### 🛠️ Strategic Tech Stack
-
-#### 🌐 Web2 Ecosystem (The Core)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### ⛓️ Web3 & Blockchain (The Frontier)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-
-#### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-#### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
-
----
-
-### 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulpatle-sol&show_icons=true&theme=transparent&hide_border=true&title_color=3ECF8E&icon_color=3ECF8E&text_color=ffffff&bg_color=000000" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulpatle-sol&theme=transparent&hide_border=true&stroke=3ECF8E&sideNums=3ECF8E&sideLabels=ffffff&dates=ffffff&ring=3ECF8E&background=000000" width="48%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:9945FF,100:3ECF8E&height=220&section=header&text=Rahul%20Patle&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%7C%20AI%20%7C%20Web3%20%7C%20Solana&descSize=20&descAlignY=62" width="100%" alt="Rahul Patle header" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake.svg" width="100%" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=3ECF8E&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Rahul+Patle;Full+Stack+Developer+%7C+AI+%7C+Web3;Rust+%C2%B7+Solana+%C2%B7+Anchor;Next.js+%C2%B7+Node+%C2%B7+Bun+%C2%B7+AWS;Open+to+Indore+%26+Remote+Web3+roles" alt="typing animation" />
 </p>
----
 
-### 🏗️ Live Deployments
-- 🖋️ **[CodeMappers](https://codemapers.vercel.app)**: Next-gen Cloud IDE for modern teams.
-- ⚡ **ShortTricks**: AI-powered productivity ecosystem.
-- 🎮 **uCheaters**: Technical research into security & sandboxing.
-
----
-
-### 📊 Profile Summary
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulpatle-sol&theme=tokyonight" width="100%" />
+  <a href="https://linkedin.com/in/rahul-patle-sol"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/PatleRahul239"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://liqour-fi.vercel.app/"><img src="https://img.shields.io/badge/Liqour-Live-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Liqour" /></a>
+  <a href="https://winge-frontend.vercel.app/"><img src="https://img.shields.io/badge/Winge-Live-3ECF8E?style=for-the-badge&logo=vercel&logoColor=white" alt="Winge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rahulpatle-sol&label=PROFILE%20VIEWS&color=3ECF8E&style=for-the-badge" alt="profile views" />
 </p>
 
----
+<br/>
 
-### 📬 Connect with the Architect
+<!-- ================= PHONE (auto-swipe reels) ================= -->
 <p align="center">
-  <a href="https://linkedin.com/in/rahul-patle-sol"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/PatleRahul239"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://claude.ai/artifact/7ohM1r22mGvi7SrqJoHYEG">
+    <img src="https://ik.imagekit.io/y8vbhvt7s/github%20Readme%20/rahulOS_liquid_glass_iphone.svg" alt="Rahul Patle — RahulOS iPhone profile reels" width="340" />
+  </a>
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=rahulpatle-sol&label=PROFILE%20VIEWS&color=3ECF8E&style=flat-square" />
+<p align="center">
+  <a href="https://claude.ai/artifact/7ohM1r22mGvi7SrqJoHYEG"><img src="https://img.shields.io/badge/Open%20interactive%20version-swipe%20%C2%B7%20pause%20%C2%B7%20arrows-9945FF?style=for-the-badge&logo=apple&logoColor=white" alt="Open interactive version" /></a>
+</p>
+
+<br/>
+
+<!-- ================= WINDOW 1: DASHBOARD ================= -->
+<a name="overview"></a>
+<table align="center" width="100%">
+<tr>
+<td colspan="2">
+
+🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp; **Rahul Patle — Dashboard**
+
+</td>
+</tr>
+<tr>
+<td width="24%" valign="top">
+
+**📂 FAVORITES**
+
+🟣 **[Overview](#overview)**
+🟢 [Projects](#projects)
+🔵 [Stack](#stack)
+🟠 [Achievements](#achievements)
+🩷 [Contact](#contact)
+
+<br/>
+
+👤 **Rahul Patle**
+`@rahulpatle-sol`
+
+</td>
+<td width="76%" valign="top">
+
+## Hey, I'm Rahul Patle 👋
+
+🧠 **Neural Systems** — AI-integrated platforms using LLMs
+⛓️ **Decentralized Mindset** — Solana, Rust, Anchor & Smart Contracts
+🏗️ **Full-Stack Mastery** — production-grade Web2 systems built to scale
+🎓 **B.Tech CSE (Lateral)** @ LNCT Indore · Diploma CSE, Govt. Polytechnic Balaghat
+🔭 **Currently** — Turbin3 Q2 2026 cohort · Superteam India Dev Fellowship · shipping Liqour
+
+<table>
+<tr>
+<td align="center"><sub>FELLOWSHIP</sub><br/><b>Superteam India</b><br/><sub>Selected fellow</sub></td>
+<td align="center"><sub>FEATURED PROJECTS</sub><br/><b>5+</b><br/><sub>Liqour · Winge · CodeMappers</sub></td>
+<td align="center"><sub>PRIMARY STACK</sub><br/><b>Rust · TS</b><br/><sub>Next.js · Node · Bun</sub></td>
+<td align="center"><sub>STATUS</sub><br/><b>🟢 Open to work</b><br/><sub>Indore · Remote Web3</sub></td>
+</tr>
+</table>
+
+**Most Used Languages**
+
+```text
+JavaScript  ██████████████████░░  92%
+HTML        ██████████████████░░  90%
+TypeScript  █████████████████░░░  88%
+CSS         █████████████████░░░  85%
+Rust        ██████████████░░░░░░  72%
+Python      █████████████░░░░░░░  66%
+PHP         ███████████░░░░░░░░░  56%
+C / C++     ███████████░░░░░░░░░  54%
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= WINDOW 2: STACK ================= -->
+<a name="stack"></a>
+<table align="center" width="100%">
+<tr>
+<td>
+
+🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp; **Stack.app — Tools I build with**
+
+</td>
+</tr>
+<tr>
+<td>
+
+**FRONTEND & MOTION**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js,ts&theme=dark" alt="frontend" /> <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" /> <img src="https://img.shields.io/badge/Lenis-smooth%20scroll-A78BFA?style=for-the-badge" alt="Lenis" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+
+**MOBILE**
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+
+**BACKEND & DATA**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,bun,php,rust,py,c,cpp,postgres,mongodb,redis,supabase&theme=dark" alt="backend" />
+
+**WEB3**
+
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Anchor-8B5CF6?style=for-the-badge" alt="Anchor" /> <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" /> <img src="https://img.shields.io/badge/Smart_Contracts-3ECF8E?style=for-the-badge" alt="Smart Contracts" />
+
+**3D & DESIGN**
+
+<img src="https://skillicons.dev/icons?i=blender,figma&theme=dark" alt="3d and design" />
+
+**INFRA & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,git,github,vercel&theme=dark" alt="infra" />
+
+`$ and many more_`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= WINDOW 3: PROJECTS ================= -->
+<a name="projects"></a>
+<table align="center" width="100%">
+<tr>
+<td colspan="3">
+
+🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp; **Finder — Projects**
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🟣 [Liqour](https://liqour-fi.vercel.app/)
+`🟢 LIVE`
+
+Solana perpetuals trading platform. Real-time order book, live PnL & liquidation engine.
+
+<sub>`Rust` `Axum` `Next.js` `Anchor`</sub>
+
+[Live](https://liqour-fi.vercel.app/) · [Repo](https://github.com/rahulpatle-sol/liqour-fi)
+
+</td>
+<td width="33%" valign="top">
+
+### 🟢 [Winge](https://winge-frontend.vercel.app/)
+`🟢 LIVE`
+
+AI backend builder. Generates APIs in Node, Rust & PHP with free hosting + storage bucket.
+
+<sub>`REST` `GraphQL` `WebSocket` `SOAP`</sub>
+
+[Live](https://winge-frontend.vercel.app/)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔵 [CodeMappers](https://codemapers.vercel.app)
+`🟢 LIVE`
+
+Next-gen cloud IDE built for modern dev teams.
+
+<sub>`Cloud IDE` `Teams`</sub>
+
+[Live](https://codemapers.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🟠 ShortTricks
+`🟢 LIVE`
+
+AI-powered productivity ecosystem.
+
+<sub>`AI` `Productivity`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### 🔴 uCheaters
+`🟡 RESEARCH`
+
+Technical research into security & sandboxing.
+
+<sub>`Security` `Sandboxing`</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ➕
+*more cooking...*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= WINDOW 4: TERMINAL ================= -->
+<a name="achievements"></a>
+<table align="center" width="100%">
+<tr>
+<td>
+
+🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp; **Terminal — rahul — zsh**
+
+</td>
+</tr>
+<tr>
+<td>
+
+```bash
+$ whoami
+rahul patle · full-stack developer · ai · web3
+
+$ cat achievements.txt
+✓ Superteam India Fellowship — selected fellow
+✓ Solana Hacker House Mumbai 2024
+✓ Turbin3 Builders Cohort
+✓ School of Solana by Ackee Blockchain Security
+
+$ ./status --open-to-work
+→ Indore full-stack roles     → Remote Web3 roles
+
+$ _
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= WINDOW 5: ANALYTICS ================= -->
+<table align="center" width="100%">
+<tr>
+<td>
+
+🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp; **Activity Monitor — GitHub**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahulpatle-sol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECF8E&icon_color=9945FF&text_color=ffffff&count_private=true" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatle-sol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECF8E&text_color=ffffff" width="48%" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=rahulpatle-sol&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ECF8E&ring=3ECF8E&fire=9945FF&currStreakLabel=3ECF8E" width="70%" alt="GitHub streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpatle-sol&bg_color=0D1117&color=3ECF8E&line=9945FF&point=ffffff&area=true&area_color=9945FF&hide_border=true" width="100%" alt="Activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahulpatle-sol&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7&row=1" alt="Trophies" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake.svg" width="100%" />
+</picture>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ================= WINDOW 6: CONTACT ================= -->
+<a name="contact"></a>
+<table align="center" width="100%">
+<tr>
+<td>
+
+🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp; **Contact.app — Let's build something**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🟢 Open to Indore full-stack & Remote Web3 roles**
+
+<br/>
+
+<a href="https://linkedin.com/in/rahul-patle-sol"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/PatleRahul239"><img src="https://img.shields.io/badge/DM%20me%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://github.com/rahulpatle-sol"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+
+<sub>⭐ Liked something? Star the repos — it keeps me shipping.</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,50:9945FF,100:1e1b4b&height=130&section=footer&text=Keep%20Shipping%20%F0%9F%9A%80&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=68" width="100%" alt="footer" />
 </p>
