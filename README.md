@@ -1,4 +1,3 @@
-
 <!-- ================= HEADER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:9945FF,100:3ECF8E&height=220&section=header&text=Rahul%20Patle&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20%7C%20AI%20%7C%20Web3%20%7C%20Solana&descSize=20&descAlignY=62" width="100%" alt="Rahul Patle header" />
@@ -269,13 +268,11 @@ $ _
 <td align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rahulpatle-sol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECF8E&icon_color=9945FF&text_color=ffffff&count_private=true" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatle-sol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECF8E&text_color=ffffff" width="48%" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulpatle-sol&layout=compact&langs_count=3&hide=cython,html,css,python,php,c&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECF8E&text_color=ffffff" width="48%" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=rahulpatle-sol&theme=tokyonight&hide_border=true&background=0D1117&stroke=3ECF8E&ring=3ECF8E&fire=9945FF&currStreakLabel=3ECF8E" width="70%" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulpatle-sol&bg_color=0D1117&color=3ECF8E&line=9945FF&point=ffffff&area=true&area_color=9945FF&hide_border=true" width="100%" alt="Activity graph" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulpatle-sol&theme=onedark&no-frame=true&no-bg=true&margin-w=12&column=7&row=1" alt="Trophies" />
+<a href="https://github.com/rahulpatle-sol/liqour-fi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulpatle-sol&repo=liqour-fi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECF8E&icon_color=9945FF&text_color=ffffff" width="48%" alt="Liqour repo" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulpatle-sol/rahulpatle-sol/output/github-snake-dark.svg" />
@@ -306,9 +303,7 @@ $ _
 
 <br/>
 
-<a href="https://linkedin.com/in/rahul-patle-sol"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/PatleRahul239"><img src="https://img.shields.io/badge/DM%20me%20on-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://github.com/rahulpatle-sol"><img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+**[💼 LinkedIn](https://linkedin.com/in/rahul-patle-sol)** &nbsp;·&nbsp; **[🐦 Twitter](https://twitter.com/PatleRahul239)** &nbsp;·&nbsp; **[🐙 GitHub](https://github.com/rahulpatle-sol)** &nbsp;·&nbsp; **[🚀 Liqour](https://liqour-fi.vercel.app/)**
 
 <sub>⭐ Liked something? Star the repos — it keeps me shipping.</sub>
 
